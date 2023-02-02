@@ -54,5 +54,6 @@ above.
 For the game, the shuffled deck, and the cards that the players have, should be implemented
 using the LinkedListStack.
 
-author Shawn Tian, Justin Nunez.
-version 1.0
+Authors: Shawn Tian, Justin Nunez.
+
+Version 1.0
