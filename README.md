@@ -52,4 +52,7 @@ Once the cards are dealt, then the game begins and scoring is done using the gam
 above.
 
 For the game, the shuffled deck, and the cards that the players have, should be implemented
-using the LinkedListStack
+using the LinkedListStack.
+
+@author <Shawn Tian>, <Justin Nunez>
+ @version 1.0
